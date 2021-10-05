@@ -14,7 +14,7 @@ body {
 }
 
 .background {
-  background: url("https://images.unsplash.com/photo-1633409545991-360f113d5362?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80") no-repeat center center/cover;
+  background: url("https://images.unsplash.com/photo-1618935262538-2c8f334afca6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80") no-repeat center center/cover;
   position: absolute;
   top: -20px;
   bottom: -20px;
