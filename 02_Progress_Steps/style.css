@@ -98,3 +98,24 @@ body {
   background-color: var(--line-border-epty);
   cursor: not-allowed;
 }
+
+@media (max-width: 480px) {
+  body {
+    background-color: #f6f7fb;
+    font-family: "Muli", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  .progress-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    min-width: 100%;
+    width: 150px;
+  }
+}
